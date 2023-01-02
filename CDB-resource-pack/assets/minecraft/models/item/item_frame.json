@@ -1,0 +1,12 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/item_frame"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 21}, "model": "custom/item/dry_soil"}
+ ]
+
+ 
+}

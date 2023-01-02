@@ -1,0 +1,1 @@
+give @s item_frame{display:{Name:'{"translate":"item.minecraft.dry_soil","italic":false}'},CustomModelData:21,EntityTag:{Item:{id:"minecraft:stick",Count:1b,tag:{display:{Name:'{"text":"11","italic":false}'}}}}} 1

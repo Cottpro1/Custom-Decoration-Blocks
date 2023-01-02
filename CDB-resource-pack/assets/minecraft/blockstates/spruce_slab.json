@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/spruce_slab"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/dry_soil"
+    },
+    "type=top": {
+      "model": "minecraft:block/spruce_slab_top"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/vertical_planks/spruce"
+    }
+  }
+}
